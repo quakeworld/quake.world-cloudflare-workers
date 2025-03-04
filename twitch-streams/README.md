@@ -11,3 +11,7 @@
 pnpm install
 pnpm dev
 ```
+
+## Related docs
+
+* [Twitch API Reference](https://dev.twitch.tv/docs/api/reference)
