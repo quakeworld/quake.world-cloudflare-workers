@@ -1,0 +1,3 @@
+TWITCH_CLIENT_ID="aaaaaaaaaaaaaaaaaaaaaaaaa"
+TWITCH_ACCESS_TOKEN="bbbbbbbbbbbbbbbbbbbbbbbbb"
+CACHE_TTL="60"

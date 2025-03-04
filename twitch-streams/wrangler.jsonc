@@ -1,0 +1,16 @@
+// https://developers.cloudflare.com/workers/wrangler/configuration/
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "twitch-streams",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-03-03",
+  "observability": {
+    "enabled": false
+  },
+  "vars": {
+    "CACHE_TTL": 60
+  }
+  // NOTE: secrets stored in file .dev.vars and the production environment
+  // TWITCH_CLIENT_ID
+  // TWITCH_ACCESS_TOKEN="bbbbbbbbbbbbbbbbbbbbbbbbb"
+}

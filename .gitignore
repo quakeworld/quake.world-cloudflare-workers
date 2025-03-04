@@ -1,0 +1,10 @@
+.idea/
+.wrangler/
+node_modules/
+
+.dev.vars
+.env
+.env.development.local
+.env.local
+.env.production.local
+.env.test.local
