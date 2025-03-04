@@ -1,0 +1,15 @@
+// https://developers.cloudflare.com/workers/wrangler/configuration/
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "youtube-streams",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-03-03",
+  "observability": {
+    "enabled": false
+  },
+  "vars": {
+    "CACHE_TTL": 180
+  }
+  // NOTE: secrets stored in file .dev.vars and the production environment
+  // YOUTUBE_API_KEY
+}
