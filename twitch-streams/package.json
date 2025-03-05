@@ -1,13 +1,12 @@
 {
   "name": "twitch-streams",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "deploy": "wrangler deploy",
     "dev": "wrangler dev",
     "start": "wrangler dev",
-    "format": "biome check --write --indent-style=space",
-    "cf-typegen": "wrangler types"
+    "format": "biome check --write"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",

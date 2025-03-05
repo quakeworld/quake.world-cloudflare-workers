@@ -2,7 +2,7 @@
 
 > List Quake streams from Youtube
 
-* Production URL: https://youtube-streams.quakeworld.workers.dev
+* URL: https://youtube-streams.quakeworld.workers.dev
 * Cache TTL: 3 minutes
 
 ## Development

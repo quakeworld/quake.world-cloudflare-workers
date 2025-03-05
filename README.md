@@ -4,10 +4,8 @@
 
 ## Workers
 
-| name                                     | description                     | production url                                        |
-|------------------------------------------|---------------------------------|-------------------------------------------------------|
-| [**twitch-streams**](./twitch-streams)   | List Quake streams from Twitch  | :link: https://twitch-streams.quakeworld.workers.dev  |
-| [**youtube-streams**](./youtube-streams) | List Quake streams from YouTube | :link: https://youtube-streams.quakeworld.workers.dev |
+* [**twitch-streams**](./twitch-streams) - List Quake streams from Twitch
+* [**youtube-streams**](./youtube-streams) - List Quake streams from YouTube
 
 ## Related docs
 
